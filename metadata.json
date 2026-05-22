@@ -1,0 +1,8 @@
+{
+  "name": "شكو ماكو - Shaku Maku",
+  "description": "دليل الأعمال ومنصة الخدمات المتكاملة في العراق. اكتشف المحلات والمطاعم والفعاليات في مدينتك.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
